@@ -6,3 +6,5 @@ What question will our team investigate?
 ## Team
 - Student name: analysis and visualisation
 - Student name: data documentation
+
+- Research Question: does git make you more efficient?
