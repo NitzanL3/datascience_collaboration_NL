@@ -8,3 +8,5 @@ What question will our team investigate?
 - Student name: data documentation
 
 - Research Question: does git make you more efficient?
+
+- Methods: we will use methods learnt in HDA and ML
